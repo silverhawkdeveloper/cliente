@@ -1,0 +1,23 @@
+<series>
+    <serie>
+        <titulo>The sopranos</titulo>
+        <cadena>HBO</cadena>
+        <director>David Chase</director>
+        <año>1999</año>
+        <terminada>Si</terminada>
+    </serie>
+    <serie>
+        <titulo>The Wire</titulo>
+        <cadena>HBO</cadena>
+        <director>David Chase</director>
+        <año>2002</año>
+        <terminada>Si</terminada>
+    </serie>
+        <serie>
+        <titulo>The Mandalorian</titulo>
+        <cadena>Disney+</cadena>
+        <director>Jon Favreau</director>
+        <año>2019</año>
+        <terminada>No</terminada>
+    </serie>
+</series>
