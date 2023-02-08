@@ -22,7 +22,7 @@ function solicitudHTTP(json) {
     xhr.open('POST', 'create_serie.php');
     xhr.send(JSON.stringify(json));
     xhr.onreadystatechange = function () {
-        this.readyState == 4 && this.status == 200 ? resultado.innerHTML = 'No' :
+        this.readyState == 4 && this.status == 200 ? resultado.innerHTML = 'Ok' :
             resultado.innerHTML = 'No se ha podido insertar en la BD'
     };
 }
